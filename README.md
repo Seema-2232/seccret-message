@@ -21,3 +21,7 @@ python tkinter_app.py
 
 Streamlit:
 streamlit run streamlit_app.py
+
+#installed:
+pip install cryptography
+pip install streamlit
